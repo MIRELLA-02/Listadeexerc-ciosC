@@ -25,3 +25,12 @@ int main() {
 
     return 0;
 }
+//Utilizando o struct, criei uma estrutura chamada Aluno, contendo: nome, idade e nota, e usei scanf para ler os dados do teclado. Depois, imprimi essas informações na tela com printf.
+
+
+
+
+
+
+
+
