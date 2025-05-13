@@ -13,3 +13,4 @@ int main (){
       
       return 0;
 }
+// O usuário digitará um número, o qual o sistema irá ler. Depois disso, usufruindo a estrutura for, o código calculará o fatorial deste número.
